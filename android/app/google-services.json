@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "788637708953",
+    "firebase_url": "https://rende-40cb4.firebaseio.com",
+    "project_id": "rende-40cb4",
+    "storage_bucket": "rende-40cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788637708953:android:991d1272c823c5b7153e08",
+        "android_client_info": {
+          "package_name": "com.campfire.rende"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788637708953-c88b6pas2si2e7u3cbe4egsp2fqjkk4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.campfire.rende",
+            "certificate_hash": "a707c470e3d844bad3201badec74397d8368ee84"
+          }
+        },
+        {
+          "client_id": "788637708953-j27eb7pb4ojp7k75o08poupvp8j5uqod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVqnErWamMjkRbtEbVYN6HDpCwG_d7IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788637708953-j27eb7pb4ojp7k75o08poupvp8j5uqod.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788637708953-v0t6gnj1s2hgfbhi111vccnqdqo316rn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Rende.campfire.com",
+                "app_store_id": "5089"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
